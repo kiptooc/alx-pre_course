@@ -1,2 +1,3 @@
-i am a sofeware engineer
+the second readme up to date
+
 
